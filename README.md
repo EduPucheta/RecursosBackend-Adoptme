@@ -1,4 +1,4 @@
-# Entrega fianl Curso de Backend 3
+# Entrega final Curso de Backend 3
 
 ## Tecnologías utilizadas:
 
